@@ -1,27 +1,11 @@
 [
   {
-    "codigo": "122",
+    "codigo": "152",
     "tipo": "provincia",
-    "nombre": "Antártica Chilena",
-    "lat": -55.028,
-    "lng": -67.6318,
-    "codigo_padre": "12"
-  },
-  {
-    "codigo": "021",
-    "tipo": "provincia",
-    "nombre": "Antofagasta",
-    "lat": -24.5646,
-    "lng": -69.2877,
-    "codigo_padre": "02"
-  },
-  {
-    "codigo": "082",
-    "tipo": "provincia",
-    "nombre": "Arauco",
-    "lat": -37.7277,
-    "lng": -73.3075,
-    "codigo_padre": "08"
+    "nombre": "Parinacota",
+    "lat": -18.3135,
+    "lng": -69.3788,
+    "codigo_padre": "15"
   },
   {
     "codigo": "151",
@@ -32,148 +16,28 @@
     "codigo_padre": "15"
   },
   {
-    "codigo": "112",
+    "codigo": "011",
     "tipo": "provincia",
-    "nombre": "Aysén",
-    "lat": -46.3848,
-    "lng": -72.2955,
-    "codigo_padre": "11"
+    "nombre": "Iquique",
+    "lat": -20.8011,
+    "lng": -70.0963,
+    "codigo_padre": "01"
   },
   {
-    "codigo": "083",
+    "codigo": "014",
     "tipo": "provincia",
-    "nombre": "Biobío",
-    "lat": -37.4739,
-    "lng": -72.1572,
-    "codigo_padre": "08"
+    "nombre": "Tamarugal",
+    "lat": -39.8567,
+    "lng": -72.6089,
+    "codigo_padre": "01"
   },
   {
-    "codigo": "061",
+    "codigo": "023",
     "tipo": "provincia",
-    "nombre": "Cachapoal",
-    "lat": -36.45,
-    "lng": -71.7333,
-    "codigo_padre": "06"
-  },
-  {
-    "codigo": "113",
-    "tipo": "provincia",
-    "nombre": "Capitán Prat",
-    "lat": -47.9232,
-    "lng": -72.9245,
-    "codigo_padre": "11"
-  },
-  {
-    "codigo": "062",
-    "tipo": "provincia",
-    "nombre": "Cardenal Caro",
-    "lat": -34.2812,
-    "lng": -71.8571,
-    "codigo_padre": "06"
-  },
-  {
-    "codigo": "072",
-    "tipo": "provincia",
-    "nombre": "Cauquenes",
-    "lat": -35.9738,
-    "lng": -72.3142,
-    "codigo_padre": "07"
-  },
-  {
-    "codigo": "091",
-    "tipo": "provincia",
-    "nombre": "Cautín",
-    "lat": -38.727,
-    "lng": -72.5989,
-    "codigo_padre": "09"
-  },
-  {
-    "codigo": "133",
-    "tipo": "provincia",
-    "nombre": "Chacabuco",
-    "lat": -33.1503,
-    "lng": -70.7132,
-    "codigo_padre": "13"
-  },
-  {
-    "codigo": "032",
-    "tipo": "provincia",
-    "nombre": "Chañaral",
-    "lat": -26.3599,
-    "lng": -70.5981,
-    "codigo_padre": "03"
-  },
-  {
-    "codigo": "102",
-    "tipo": "provincia",
-    "nombre": "Chiloé",
-    "lat": -43.117,
-    "lng": -73.9984,
-    "codigo_padre": "10"
-  },
-  {
-    "codigo": "042",
-    "tipo": "provincia",
-    "nombre": "Choapa",
-    "lat": -31.8006,
-    "lng": -70.9827,
-    "codigo_padre": "04"
-  },
-  {
-    "codigo": "111",
-    "tipo": "provincia",
-    "nombre": "Coihaique",
-    "lat": -45.2865,
-    "lng": -71.7792,
-    "codigo_padre": "11"
-  },
-  {
-    "codigo": "063",
-    "tipo": "provincia",
-    "nombre": "Colchagua",
-    "lat": -34.6761,
-    "lng": -71.0973,
-    "codigo_padre": "06"
-  },
-  {
-    "codigo": "081",
-    "tipo": "provincia",
-    "nombre": "Concepción",
-    "lat": -36.8148,
-    "lng": -73.0293,
-    "codigo_padre": "08"
-  },
-  {
-    "codigo": "031",
-    "tipo": "provincia",
-    "nombre": "Copiapó",
-    "lat": -27.5765,
-    "lng": -70.0269,
-    "codigo_padre": "03"
-  },
-  {
-    "codigo": "132",
-    "tipo": "provincia",
-    "nombre": "Cordillera",
-    "lat": -33.6984,
-    "lng": -70.1682,
-    "codigo_padre": "13"
-  },
-  {
-    "codigo": "073",
-    "tipo": "provincia",
-    "nombre": "Curicó",
-    "lat": -35.1704,
-    "lng": -70.8954,
-    "codigo_padre": "07"
-  },
-  {
-    "codigo": "161",
-    "tipo": "provincia",
-    "nombre": "Diguillín",
-    "lat": -366.197,
-    "lng": -721.014,
-    "codigo_padre": "16"
+    "nombre": "Tocopilla",
+    "lat": -22.2306,
+    "lng": -69.4666,
+    "codigo_padre": "02"
   },
   {
     "codigo": "022",
@@ -184,20 +48,28 @@
     "codigo_padre": "02"
   },
   {
-    "codigo": "041",
+    "codigo": "021",
     "tipo": "provincia",
-    "nombre": "Elqui",
-    "lat": -29.8335,
-    "lng": -70.8014,
-    "codigo_padre": "04"
+    "nombre": "Antofagasta",
+    "lat": -24.5646,
+    "lng": -69.2877,
+    "codigo_padre": "02"
   },
   {
-    "codigo": "114",
+    "codigo": "032",
     "tipo": "provincia",
-    "nombre": "General Carrera",
-    "lat": -46.557,
-    "lng": -72.4123,
-    "codigo_padre": "11"
+    "nombre": "Chañaral",
+    "lat": -26.3599,
+    "lng": -70.5981,
+    "codigo_padre": "03"
+  },
+  {
+    "codigo": "031",
+    "tipo": "provincia",
+    "nombre": "Copiapó",
+    "lat": -27.5765,
+    "lng": -70.0269,
+    "codigo_padre": "03"
   },
   {
     "codigo": "033",
@@ -208,28 +80,12 @@
     "codigo_padre": "03"
   },
   {
-    "codigo": "011",
+    "codigo": "041",
     "tipo": "provincia",
-    "nombre": "Iquique",
-    "lat": -20.8011,
-    "lng": -70.0963,
-    "codigo_padre": "01"
-  },
-  {
-    "codigo": "052",
-    "tipo": "provincia",
-    "nombre": "Isla de Pascua",
-    "lat": -27.1212,
-    "lng": -109.366,
-    "codigo_padre": "05"
-  },
-  {
-    "codigo": "162",
-    "tipo": "provincia",
-    "nombre": "Itata",
-    "lat": -367.639,
-    "lng": -724.491,
-    "codigo_padre": "16"
+    "nombre": "Elqui",
+    "lat": -29.8335,
+    "lng": -70.8014,
+    "codigo_padre": "04"
   },
   {
     "codigo": "043",
@@ -240,92 +96,20 @@
     "codigo_padre": "04"
   },
   {
-    "codigo": "074",
+    "codigo": "042",
     "tipo": "provincia",
-    "nombre": "Linares",
-    "lat": -35.8495,
-    "lng": -71.585,
-    "codigo_padre": "07"
+    "nombre": "Choapa",
+    "lat": -31.8006,
+    "lng": -70.9827,
+    "codigo_padre": "04"
   },
   {
-    "codigo": "101",
+    "codigo": "052",
     "tipo": "provincia",
-    "nombre": "Llanquihue",
-    "lat": -41.453,
-    "lng": -72.6135,
-    "codigo_padre": "10"
-  },
-  {
-    "codigo": "053",
-    "tipo": "provincia",
-    "nombre": "Los Andes",
-    "lat": -32.9544,
-    "lng": -70.3163,
+    "nombre": "Isla de Pascua",
+    "lat": -27.1212,
+    "lng": -109.366,
     "codigo_padre": "05"
-  },
-  {
-    "codigo": "121",
-    "tipo": "provincia",
-    "nombre": "Magallanes",
-    "lat": -53.6316,
-    "lng": -71.5924,
-    "codigo_padre": "12"
-  },
-  {
-    "codigo": "134",
-    "tipo": "provincia",
-    "nombre": "Maipo",
-    "lat": -33.7963,
-    "lng": -70.7353,
-    "codigo_padre": "13"
-  },
-  {
-    "codigo": "092",
-    "tipo": "provincia",
-    "nombre": "Malleco",
-    "lat": -37.803,
-    "lng": -72.7017,
-    "codigo_padre": "09"
-  },
-  {
-    "codigo": "058",
-    "tipo": "provincia",
-    "nombre": "Marga Marga",
-    "lat": -33.065,
-    "lng": -71.3711,
-    "codigo_padre": "05"
-  },
-  {
-    "codigo": "135",
-    "tipo": "provincia",
-    "nombre": "Melipilla",
-    "lat": -33.7369,
-    "lng": -71.1743,
-    "codigo_padre": "13"
-  },
-  {
-    "codigo": "103",
-    "tipo": "provincia",
-    "nombre": "Osorno",
-    "lat": -40.7369,
-    "lng": -72.9849,
-    "codigo_padre": "10"
-  },
-  {
-    "codigo": "104",
-    "tipo": "provincia",
-    "nombre": "Palena",
-    "lat": -43.4449,
-    "lng": -72.0923,
-    "codigo_padre": "10"
-  },
-  {
-    "codigo": "152",
-    "tipo": "provincia",
-    "nombre": "Parinacota",
-    "lat": -18.3135,
-    "lng": -69.3788,
-    "codigo_padre": "15"
   },
   {
     "codigo": "054",
@@ -336,12 +120,12 @@
     "codigo_padre": "05"
   },
   {
-    "codigo": "163",
+    "codigo": "057",
     "tipo": "provincia",
-    "nombre": "Punilla",
-    "lat": -364.261,
-    "lng": -719.708,
-    "codigo_padre": "16"
+    "nombre": "San Felipe de Aconcagua",
+    "lat": -32.7464,
+    "lng": -70.7489,
+    "codigo_padre": "05"
   },
   {
     "codigo": "055",
@@ -352,12 +136,28 @@
     "codigo_padre": "05"
   },
   {
-    "codigo": "142",
+    "codigo": "053",
     "tipo": "provincia",
-    "nombre": "Ranco",
-    "lat": -40.4114,
-    "lng": -72.4988,
-    "codigo_padre": "14"
+    "nombre": "Los Andes",
+    "lat": -32.9544,
+    "lng": -70.3163,
+    "codigo_padre": "05"
+  },
+  {
+    "codigo": "058",
+    "tipo": "provincia",
+    "nombre": "Marga Marga",
+    "lat": -33.065,
+    "lng": -71.3711,
+    "codigo_padre": "05"
+  },
+  {
+    "codigo": "051",
+    "tipo": "provincia",
+    "nombre": "Valparaíso",
+    "lat": -33.1381,
+    "lng": -71.5617,
+    "codigo_padre": "05"
   },
   {
     "codigo": "056",
@@ -368,12 +168,12 @@
     "codigo_padre": "05"
   },
   {
-    "codigo": "057",
+    "codigo": "133",
     "tipo": "provincia",
-    "nombre": "San Felipe de Aconcagua",
-    "lat": -32.7464,
-    "lng": -70.7489,
-    "codigo_padre": "05"
+    "nombre": "Chacabuco",
+    "lat": -33.1503,
+    "lng": -70.7132,
+    "codigo_padre": "13"
   },
   {
     "codigo": "131",
@@ -392,6 +192,62 @@
     "codigo_padre": "13"
   },
   {
+    "codigo": "132",
+    "tipo": "provincia",
+    "nombre": "Cordillera",
+    "lat": -33.6984,
+    "lng": -70.1682,
+    "codigo_padre": "13"
+  },
+  {
+    "codigo": "135",
+    "tipo": "provincia",
+    "nombre": "Melipilla",
+    "lat": -33.7369,
+    "lng": -71.1743,
+    "codigo_padre": "13"
+  },
+  {
+    "codigo": "134",
+    "tipo": "provincia",
+    "nombre": "Maipo",
+    "lat": -33.7963,
+    "lng": -70.7353,
+    "codigo_padre": "13"
+  },
+  {
+    "codigo": "062",
+    "tipo": "provincia",
+    "nombre": "Cardenal Caro",
+    "lat": -34.2812,
+    "lng": -71.8571,
+    "codigo_padre": "06"
+  },
+  {
+    "codigo": "063",
+    "tipo": "provincia",
+    "nombre": "Colchagua",
+    "lat": -34.6761,
+    "lng": -71.0973,
+    "codigo_padre": "06"
+  },
+  {
+    "codigo": "061",
+    "tipo": "provincia",
+    "nombre": "Cachapoal",
+    "lat": -36.45,
+    "lng": -71.7333,
+    "codigo_padre": "06"
+  },
+  {
+    "codigo": "073",
+    "tipo": "provincia",
+    "nombre": "Curicó",
+    "lat": -35.1704,
+    "lng": -70.8954,
+    "codigo_padre": "07"
+  },
+  {
     "codigo": "071",
     "tipo": "provincia",
     "nombre": "Talca",
@@ -400,36 +256,84 @@
     "codigo_padre": "07"
   },
   {
-    "codigo": "014",
+    "codigo": "074",
     "tipo": "provincia",
-    "nombre": "Tamarugal",
-    "lat": -39.8567,
-    "lng": -72.6089,
-    "codigo_padre": "01"
+    "nombre": "Linares",
+    "lat": -35.8495,
+    "lng": -71.585,
+    "codigo_padre": "07"
   },
   {
-    "codigo": "123",
+    "codigo": "072",
     "tipo": "provincia",
-    "nombre": "Tierra del Fuego",
-    "lat": -53.7422,
-    "lng": -69.2249,
-    "codigo_padre": "12"
+    "nombre": "Cauquenes",
+    "lat": -35.9738,
+    "lng": -72.3142,
+    "codigo_padre": "07"
   },
   {
-    "codigo": "023",
+    "codigo": "163",
     "tipo": "provincia",
-    "nombre": "Tocopilla",
-    "lat": -22.2306,
-    "lng": -69.4666,
-    "codigo_padre": "02"
+    "nombre": "Punilla",
+    "lat": -36.4261,
+    "lng": -71.9708,
+    "codigo_padre": "16"
   },
   {
-    "codigo": "124",
+    "codigo": "161",
     "tipo": "provincia",
-    "nombre": "Última Esperanza",
-    "lat": -51.0163,
-    "lng": -73.4285,
-    "codigo_padre": "12"
+    "nombre": "Diguillín",
+    "lat": -36.6197,
+    "lng": -72.1014,
+    "codigo_padre": "16"
+  },
+  {
+    "codigo": "162",
+    "tipo": "provincia",
+    "nombre": "Itata",
+    "lat": -36.7639,
+    "lng": -72.4491,
+    "codigo_padre": "16"
+  },
+  {
+    "codigo": "081",
+    "tipo": "provincia",
+    "nombre": "Concepción",
+    "lat": -36.8148,
+    "lng": -73.0293,
+    "codigo_padre": "08"
+  },
+  {
+    "codigo": "083",
+    "tipo": "provincia",
+    "nombre": "Biobío",
+    "lat": -37.4739,
+    "lng": -72.1572,
+    "codigo_padre": "08"
+  },
+  {
+    "codigo": "082",
+    "tipo": "provincia",
+    "nombre": "Arauco",
+    "lat": -37.7277,
+    "lng": -73.3075,
+    "codigo_padre": "08"
+  },
+  {
+    "codigo": "092",
+    "tipo": "provincia",
+    "nombre": "Malleco",
+    "lat": -37.803,
+    "lng": -72.7017,
+    "codigo_padre": "09"
+  },
+  {
+    "codigo": "091",
+    "tipo": "provincia",
+    "nombre": "Cautín",
+    "lat": -38.727,
+    "lng": -72.5989,
+    "codigo_padre": "09"
   },
   {
     "codigo": "141",
@@ -440,11 +344,107 @@
     "codigo_padre": "14"
   },
   {
-    "codigo": "051",
+    "codigo": "142",
     "tipo": "provincia",
-    "nombre": "Valparaíso",
-    "lat": -33.1381,
-    "lng": -71.5617,
-    "codigo_padre": "05"
+    "nombre": "Ranco",
+    "lat": -40.4114,
+    "lng": -72.4988,
+    "codigo_padre": "14"
+  },
+  {
+    "codigo": "103",
+    "tipo": "provincia",
+    "nombre": "Osorno",
+    "lat": -40.7369,
+    "lng": -72.9849,
+    "codigo_padre": "10"
+  },
+  {
+    "codigo": "101",
+    "tipo": "provincia",
+    "nombre": "Llanquihue",
+    "lat": -41.453,
+    "lng": -72.6135,
+    "codigo_padre": "10"
+  },
+  {
+    "codigo": "102",
+    "tipo": "provincia",
+    "nombre": "Chiloé",
+    "lat": -43.117,
+    "lng": -73.9984,
+    "codigo_padre": "10"
+  },
+  {
+    "codigo": "104",
+    "tipo": "provincia",
+    "nombre": "Palena",
+    "lat": -43.4449,
+    "lng": -72.0923,
+    "codigo_padre": "10"
+  },
+  {
+    "codigo": "111",
+    "tipo": "provincia",
+    "nombre": "Coihaique",
+    "lat": -45.2865,
+    "lng": -71.7792,
+    "codigo_padre": "11"
+  },
+  {
+    "codigo": "112",
+    "tipo": "provincia",
+    "nombre": "Aysén",
+    "lat": -46.3848,
+    "lng": -72.2955,
+    "codigo_padre": "11"
+  },
+  {
+    "codigo": "114",
+    "tipo": "provincia",
+    "nombre": "General Carrera",
+    "lat": -46.557,
+    "lng": -72.4123,
+    "codigo_padre": "11"
+  },
+  {
+    "codigo": "113",
+    "tipo": "provincia",
+    "nombre": "Capitán Prat",
+    "lat": -47.9232,
+    "lng": -72.9245,
+    "codigo_padre": "11"
+  },
+  {
+    "codigo": "124",
+    "tipo": "provincia",
+    "nombre": "Última Esperanza",
+    "lat": -51.0163,
+    "lng": -73.4285,
+    "codigo_padre": "12"
+  },
+  {
+    "codigo": "121",
+    "tipo": "provincia",
+    "nombre": "Magallanes",
+    "lat": -53.6316,
+    "lng": -71.5924,
+    "codigo_padre": "12"
+  },
+  {
+    "codigo": "123",
+    "tipo": "provincia",
+    "nombre": "Tierra del Fuego",
+    "lat": -53.7422,
+    "lng": -69.2249,
+    "codigo_padre": "12"
+  },
+  {
+    "codigo": "122",
+    "tipo": "provincia",
+    "nombre": "Antártica Chilena",
+    "lat": -55.028,
+    "lng": -67.6318,
+    "codigo_padre": "12"
   }
 ]
