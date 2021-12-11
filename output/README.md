@@ -1,12 +1,9 @@
 # Chile información geografía
 
 Regiones, Provincias y Comunas. 
+[home](https://github.com/Norero/chile-data_geografia#chile-informaci%C3%B3n-geograf%C3%ADa)
 
-# Input
-
-Obtenida a partir de la [API](https://apis.digital.gob.cl/dpa/) del gobierno. División Político Administrativa
-
-#Output
+# Output
 
 Archivos JSON ordenados.
 
