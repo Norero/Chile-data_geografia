@@ -5,7 +5,6 @@
     "nombre": "Antártica Chilena",
     "lat": -55.028,
     "lng": -67.6318,
-    "url": "",
     "codigo_padre": "12"
   },
   {
@@ -14,7 +13,6 @@
     "nombre": "Antofagasta",
     "lat": -24.5646,
     "lng": -69.2877,
-    "url": "",
     "codigo_padre": "02"
   },
   {
@@ -23,7 +21,6 @@
     "nombre": "Arauco",
     "lat": -37.7277,
     "lng": -73.3075,
-    "url": "",
     "codigo_padre": "08"
   },
   {
@@ -32,7 +29,6 @@
     "nombre": "Arica",
     "lat": -18.7139,
     "lng": -69.7522,
-    "url": "",
     "codigo_padre": "15"
   },
   {
@@ -41,7 +37,6 @@
     "nombre": "Aysén",
     "lat": -46.3848,
     "lng": -72.2955,
-    "url": "",
     "codigo_padre": "11"
   },
   {
@@ -50,7 +45,6 @@
     "nombre": "Biobío",
     "lat": -37.4739,
     "lng": -72.1572,
-    "url": "",
     "codigo_padre": "08"
   },
   {
@@ -59,7 +53,6 @@
     "nombre": "Cachapoal",
     "lat": -36.45,
     "lng": -71.7333,
-    "url": "",
     "codigo_padre": "06"
   },
   {
@@ -68,7 +61,6 @@
     "nombre": "Capitán Prat",
     "lat": -47.9232,
     "lng": -72.9245,
-    "url": "",
     "codigo_padre": "11"
   },
   {
@@ -77,7 +69,6 @@
     "nombre": "Cardenal Caro",
     "lat": -34.2812,
     "lng": -71.8571,
-    "url": "",
     "codigo_padre": "06"
   },
   {
@@ -86,7 +77,6 @@
     "nombre": "Cauquenes",
     "lat": -35.9738,
     "lng": -72.3142,
-    "url": "",
     "codigo_padre": "07"
   },
   {
@@ -95,7 +85,6 @@
     "nombre": "Cautín",
     "lat": -38.727,
     "lng": -72.5989,
-    "url": "",
     "codigo_padre": "09"
   },
   {
@@ -104,7 +93,6 @@
     "nombre": "Chacabuco",
     "lat": -33.1503,
     "lng": -70.7132,
-    "url": "",
     "codigo_padre": "13"
   },
   {
@@ -113,7 +101,6 @@
     "nombre": "Chañaral",
     "lat": -26.3599,
     "lng": -70.5981,
-    "url": "",
     "codigo_padre": "03"
   },
   {
@@ -122,7 +109,6 @@
     "nombre": "Chiloé",
     "lat": -43.117,
     "lng": -73.9984,
-    "url": "",
     "codigo_padre": "10"
   },
   {
@@ -131,7 +117,6 @@
     "nombre": "Choapa",
     "lat": -31.8006,
     "lng": -70.9827,
-    "url": "",
     "codigo_padre": "04"
   },
   {
@@ -140,7 +125,6 @@
     "nombre": "Coihaique",
     "lat": -45.2865,
     "lng": -71.7792,
-    "url": "",
     "codigo_padre": "11"
   },
   {
@@ -149,7 +133,6 @@
     "nombre": "Colchagua",
     "lat": -34.6761,
     "lng": -71.0973,
-    "url": "",
     "codigo_padre": "06"
   },
   {
@@ -158,7 +141,6 @@
     "nombre": "Concepción",
     "lat": -36.8148,
     "lng": -73.0293,
-    "url": "",
     "codigo_padre": "08"
   },
   {
@@ -167,7 +149,6 @@
     "nombre": "Copiapó",
     "lat": -27.5765,
     "lng": -70.0269,
-    "url": "",
     "codigo_padre": "03"
   },
   {
@@ -176,7 +157,6 @@
     "nombre": "Cordillera",
     "lat": -33.6984,
     "lng": -70.1682,
-    "url": "",
     "codigo_padre": "13"
   },
   {
@@ -185,7 +165,6 @@
     "nombre": "Curicó",
     "lat": -35.1704,
     "lng": -70.8954,
-    "url": "",
     "codigo_padre": "07"
   },
   {
@@ -194,7 +173,6 @@
     "nombre": "Diguillín",
     "lat": -366.197,
     "lng": -721.014,
-    "url": "",
     "codigo_padre": "16"
   },
   {
@@ -203,7 +181,6 @@
     "nombre": "El Loa",
     "lat": -22.3196,
     "lng": -68.5107,
-    "url": "",
     "codigo_padre": "02"
   },
   {
@@ -212,7 +189,6 @@
     "nombre": "Elqui",
     "lat": -29.8335,
     "lng": -70.8014,
-    "url": "",
     "codigo_padre": "04"
   },
   {
@@ -221,7 +197,6 @@
     "nombre": "General Carrera",
     "lat": -46.557,
     "lng": -72.4123,
-    "url": "",
     "codigo_padre": "11"
   },
   {
@@ -230,7 +205,6 @@
     "nombre": "Huasco",
     "lat": -28.5604,
     "lng": -70.6146,
-    "url": "",
     "codigo_padre": "03"
   },
   {
@@ -239,7 +213,6 @@
     "nombre": "Iquique",
     "lat": -20.8011,
     "lng": -70.0963,
-    "url": "",
     "codigo_padre": "01"
   },
   {
@@ -248,7 +221,6 @@
     "nombre": "Isla de Pascua",
     "lat": -27.1212,
     "lng": -109.366,
-    "url": "",
     "codigo_padre": "05"
   },
   {
@@ -257,7 +229,6 @@
     "nombre": "Itata",
     "lat": -367.639,
     "lng": -724.491,
-    "url": "",
     "codigo_padre": "16"
   },
   {
@@ -266,7 +237,6 @@
     "nombre": "Limarí",
     "lat": -30.7342,
     "lng": -70.9957,
-    "url": "",
     "codigo_padre": "04"
   },
   {
@@ -275,7 +245,6 @@
     "nombre": "Linares",
     "lat": -35.8495,
     "lng": -71.585,
-    "url": "",
     "codigo_padre": "07"
   },
   {
@@ -284,7 +253,6 @@
     "nombre": "Llanquihue",
     "lat": -41.453,
     "lng": -72.6135,
-    "url": "",
     "codigo_padre": "10"
   },
   {
@@ -293,7 +261,6 @@
     "nombre": "Los Andes",
     "lat": -32.9544,
     "lng": -70.3163,
-    "url": "",
     "codigo_padre": "05"
   },
   {
@@ -302,7 +269,6 @@
     "nombre": "Magallanes",
     "lat": -53.6316,
     "lng": -71.5924,
-    "url": "",
     "codigo_padre": "12"
   },
   {
@@ -311,7 +277,6 @@
     "nombre": "Maipo",
     "lat": -33.7963,
     "lng": -70.7353,
-    "url": "",
     "codigo_padre": "13"
   },
   {
@@ -320,7 +285,6 @@
     "nombre": "Malleco",
     "lat": -37.803,
     "lng": -72.7017,
-    "url": "",
     "codigo_padre": "09"
   },
   {
@@ -329,7 +293,6 @@
     "nombre": "Marga Marga",
     "lat": -33.065,
     "lng": -71.3711,
-    "url": "",
     "codigo_padre": "05"
   },
   {
@@ -338,7 +301,6 @@
     "nombre": "Melipilla",
     "lat": -33.7369,
     "lng": -71.1743,
-    "url": "",
     "codigo_padre": "13"
   },
   {
@@ -347,7 +309,6 @@
     "nombre": "Osorno",
     "lat": -40.7369,
     "lng": -72.9849,
-    "url": "",
     "codigo_padre": "10"
   },
   {
@@ -356,7 +317,6 @@
     "nombre": "Palena",
     "lat": -43.4449,
     "lng": -72.0923,
-    "url": "",
     "codigo_padre": "10"
   },
   {
@@ -365,7 +325,6 @@
     "nombre": "Parinacota",
     "lat": -18.3135,
     "lng": -69.3788,
-    "url": "",
     "codigo_padre": "15"
   },
   {
@@ -374,7 +333,6 @@
     "nombre": "Petorca",
     "lat": -32.1965,
     "lng": -70.8318,
-    "url": "",
     "codigo_padre": "05"
   },
   {
@@ -383,7 +341,6 @@
     "nombre": "Punilla",
     "lat": -364.261,
     "lng": -719.708,
-    "url": "",
     "codigo_padre": "16"
   },
   {
@@ -392,7 +349,6 @@
     "nombre": "Quillota",
     "lat": -32.9009,
     "lng": -71.2947,
-    "url": "",
     "codigo_padre": "05"
   },
   {
@@ -401,7 +357,6 @@
     "nombre": "Ranco",
     "lat": -40.4114,
     "lng": -72.4988,
-    "url": "",
     "codigo_padre": "14"
   },
   {
@@ -410,7 +365,6 @@
     "nombre": "San Antonio",
     "lat": -33.6648,
     "lng": -71.4597,
-    "url": "",
     "codigo_padre": "05"
   },
   {
@@ -419,7 +373,6 @@
     "nombre": "San Felipe de Aconcagua",
     "lat": -32.7464,
     "lng": -70.7489,
-    "url": "",
     "codigo_padre": "05"
   },
   {
@@ -428,7 +381,6 @@
     "nombre": "Santiago",
     "lat": -33.4417,
     "lng": -70.6541,
-    "url": "",
     "codigo_padre": "13"
   },
   {
@@ -437,7 +389,6 @@
     "nombre": "Talagante",
     "lat": -33.6665,
     "lng": -70.9331,
-    "url": "",
     "codigo_padre": "13"
   },
   {
@@ -446,7 +397,6 @@
     "nombre": "Talca",
     "lat": -35.3921,
     "lng": -71.6125,
-    "url": "",
     "codigo_padre": "07"
   },
   {
@@ -455,7 +405,6 @@
     "nombre": "Tamarugal",
     "lat": -39.8567,
     "lng": -72.6089,
-    "url": "",
     "codigo_padre": "01"
   },
   {
@@ -464,7 +413,6 @@
     "nombre": "Tierra del Fuego",
     "lat": -53.7422,
     "lng": -69.2249,
-    "url": "",
     "codigo_padre": "12"
   },
   {
@@ -473,7 +421,6 @@
     "nombre": "Tocopilla",
     "lat": -22.2306,
     "lng": -69.4666,
-    "url": "",
     "codigo_padre": "02"
   },
   {
@@ -482,7 +429,6 @@
     "nombre": "Última Esperanza",
     "lat": -51.0163,
     "lng": -73.4285,
-    "url": "",
     "codigo_padre": "12"
   },
   {
@@ -491,7 +437,6 @@
     "nombre": "Valdivia",
     "lat": -39.7811,
     "lng": -72.5098,
-    "url": "",
     "codigo_padre": "14"
   },
   {
@@ -500,7 +445,6 @@
     "nombre": "Valparaíso",
     "lat": -33.1381,
     "lng": -71.5617,
-    "url": "",
     "codigo_padre": "05"
   }
 ]
