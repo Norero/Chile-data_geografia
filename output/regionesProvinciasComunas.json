@@ -1,0 +1,710 @@
+{
+  "regiones": [
+    {
+      "region": "Arica y Parinacota",
+      "provincias": [
+        {
+          "provincia": "Parinacota",
+          "comunas": [
+            "General Lagos",
+            "Putre"
+          ]
+        },
+        {
+          "provincia": "Arica",
+          "comunas": [
+            "Arica",
+            "Camarones"
+          ]
+        }
+      ]
+    },
+    {
+      "region": "Tarapacá",
+      "provincias": [
+        {
+          "provincia": "Iquique",
+          "comunas": [
+            "Iquique",
+            "Alto Hospicio"
+          ]
+        },
+        {
+          "provincia": "Tamarugal",
+          "comunas": [
+            "Colchane",
+            "Camiña",
+            "Huara",
+            "Pozo Almonte",
+            "Pica"
+          ]
+        }
+      ]
+    },
+    {
+      "region": "Antofagasta",
+      "provincias": [
+        {
+          "provincia": "Tocopilla",
+          "comunas": [
+            "Tocopilla",
+            "María Elena"
+          ]
+        },
+        {
+          "provincia": "El Loa",
+          "comunas": [
+            "Ollagüe",
+            "Calama",
+            "San Pedro de Atacama"
+          ]
+        },
+        {
+          "provincia": "Antofagasta",
+          "comunas": [
+            "Sierra Gorda",
+            "Mejillones",
+            "Antofagasta",
+            "Taltal"
+          ]
+        }
+      ]
+    },
+    {
+      "region": "Atacama",
+      "provincias": [
+        {
+          "provincia": "Chañaral",
+          "comunas": [
+            "Chañaral",
+            "Diego de Almagro"
+          ]
+        },
+        {
+          "provincia": "Copiapó",
+          "comunas": [
+            "Caldera",
+            "Copiapó",
+            "Tierra Amarilla"
+          ]
+        },
+        {
+          "provincia": "Huasco",
+          "comunas": [
+            "Huasco",
+            "Freirina",
+            "Vallenar",
+            "Alto del Carmen"
+          ]
+        }
+      ]
+    },
+    {
+      "region": "Coquimbo",
+      "provincias": [
+        {
+          "provincia": "Elqui",
+          "comunas": [
+            "La Higuera",
+            "La Serena",
+            "Coquimbo",
+            "Vicuña",
+            "Andacollo",
+            "Paiguano"
+          ]
+        },
+        {
+          "provincia": "Limarí",
+          "comunas": [
+            "Río Hurtado",
+            "Ovalle",
+            "Punitaqui",
+            "Monte Patria",
+            "Combarbalá"
+          ]
+        },
+        {
+          "provincia": "Choapa",
+          "comunas": [
+            "Canela",
+            "Illapel",
+            "Salamanca",
+            "Los Vilos"
+          ]
+        }
+      ]
+    },
+    {
+      "region": "Valparaíso",
+      "provincias": [
+        {
+          "provincia": "Isla de Pascua",
+          "comunas": [
+            "Isla de Pascua"
+          ]
+        },
+        {
+          "provincia": "Petorca",
+          "comunas": [
+            "Petorca",
+            "Cabildo",
+            "La Ligua",
+            "Papudo",
+            "Zapallar"
+          ]
+        },
+        {
+          "provincia": "San Felipe de Aconcagua",
+          "comunas": [
+            "Putaendo",
+            "Catemu",
+            "Santa María",
+            "San Felipe",
+            "Panquehue",
+            "Llaillay"
+          ]
+        },
+        {
+          "provincia": "Quillota",
+          "comunas": [
+            "Nogales",
+            "Calera",
+            "La Cruz",
+            "Hijuelas",
+            "Quillota"
+          ]
+        },
+        {
+          "provincia": "Los Andes",
+          "comunas": [
+            "San Esteban",
+            "Los Andes",
+            "Rinconada",
+            "Calle Larga"
+          ]
+        },
+        {
+          "provincia": "Marga Marga",
+          "comunas": [
+            "Limache",
+            "Olmué",
+            "Villa Alemana",
+            "Quilpué"
+          ]
+        },
+        {
+          "provincia": "Valparaíso",
+          "comunas": [
+            "Puchuncaví",
+            "Quintero",
+            "Concón",
+            "Valparaíso",
+            "Viña del Mar",
+            "Casablanca",
+            "Juan Fernández"
+          ]
+        },
+        {
+          "provincia": "San Antonio",
+          "comunas": [
+            "Algarrobo",
+            "El Quisco",
+            "El Tabo",
+            "Cartagena",
+            "San Antonio",
+            "Santo Domingo"
+          ]
+        }
+      ]
+    },
+    {
+      "region": "Metropolitana de Santiago",
+      "provincias": [
+        {
+          "provincia": "Chacabuco",
+          "comunas": [
+            "Tiltil",
+            "Colina",
+            "Lampa"
+          ]
+        },
+        {
+          "provincia": "Santiago",
+          "comunas": [
+            "Lo Barnechea",
+            "Quilicura",
+            "Huechuraba",
+            "Conchalí",
+            "Vitacura",
+            "Renca",
+            "Las Condes",
+            "Recoleta",
+            "Pudahuel",
+            "Independencia",
+            "Providencia",
+            "Cerro Navia",
+            "Quinta Normal",
+            "Santiago Centro",
+            "Lo Prado",
+            "Estación Central",
+            "La Reina",
+            "Ñuñoa",
+            "Pedro Aguirre Cerda",
+            "Peñalolén",
+            "Macul",
+            "San Joaquín",
+            "Cerrillos",
+            "San Miguel",
+            "Maipú",
+            "La Florida",
+            "Lo Espejo",
+            "San Ramón",
+            "La Granja",
+            "La Cisterna",
+            "El Bosque",
+            "La Pintana"
+          ]
+        },
+        {
+          "provincia": "Talagante",
+          "comunas": [
+            "Padre Hurtado",
+            "Peñaflor",
+            "Talagante",
+            "El Monte",
+            "Isla de Maipo"
+          ]
+        },
+        {
+          "provincia": "Cordillera",
+          "comunas": [
+            "Puente Alto",
+            "San José de Maipo",
+            "Pirque"
+          ]
+        },
+        {
+          "provincia": "Melipilla",
+          "comunas": [
+            "Curacaví",
+            "María Pinto",
+            "Melipilla",
+            "San Pedro",
+            "Alhué"
+          ]
+        },
+        {
+          "provincia": "Maipo",
+          "comunas": [
+            "San Bernardo",
+            "Calera de Tango",
+            "Buin",
+            "Paine"
+          ]
+        }
+      ]
+    },
+    {
+      "region": "Del Libertador Gral. Bernardo O’Higgins",
+      "provincias": [
+        {
+          "provincia": "Cardenal Caro",
+          "comunas": [
+            "Navidad",
+            "Litueche",
+            "La Estrella",
+            "Pichilemu",
+            "Marchihue",
+            "Paredones"
+          ]
+        },
+        {
+          "provincia": "Colchagua",
+          "comunas": [
+            "Peralillo",
+            "San Fernando",
+            "Palmilla",
+            "Pumanque",
+            "Placilla",
+            "Santa Cruz",
+            "Nancagua",
+            "Chépica",
+            "Chimbarongo",
+            "Lolol"
+          ]
+        },
+        {
+          "provincia": "Cachapoal",
+          "comunas": [
+            "Mostazal",
+            "Codegua",
+            "Graneros",
+            "Rancagua",
+            "Doñihue",
+            "Olivar",
+            "Coltauco",
+            "Coinco",
+            "Machalí",
+            "Las Cabras",
+            "Requínoa",
+            "Quinta de Tilcoco",
+            "Pichidegua",
+            "Peumo",
+            "Rengo",
+            "San Vicente",
+            "Malloa"
+          ]
+        }
+      ]
+    },
+    {
+      "region": "Del Maule",
+      "provincias": [
+        {
+          "provincia": "Curicó",
+          "comunas": [
+            "Vichuquén",
+            "Teno",
+            "Rauco",
+            "Licantén",
+            "Romeral",
+            "Curicó",
+            "Hualañé",
+            "Sagrada Familia",
+            "Molina"
+          ]
+        },
+        {
+          "provincia": "Talca",
+          "comunas": [
+            "Curepto",
+            "Río Claro",
+            "San Rafael",
+            "Pencahue",
+            "Constitución",
+            "Pelarco",
+            "Talca",
+            "Maule",
+            "San Clemente",
+            "Empedrado"
+          ]
+        },
+        {
+          "provincia": "Linares",
+          "comunas": [
+            "San Javier",
+            "Villa Alegre",
+            "Yerbas Buenas",
+            "Colbún",
+            "Linares",
+            "Longaví",
+            "Retiro",
+            "Parral"
+          ]
+        },
+        {
+          "provincia": "Cauquenes",
+          "comunas": [
+            "Chanco",
+            "Pelluhue",
+            "Cauquenes"
+          ]
+        }
+      ]
+    },
+    {
+      "region": "Ñuble",
+      "provincias": [
+        {
+          "provincia": "Punilla",
+          "comunas": [
+            "Ñiquén",
+            "San Carlos",
+            "San Nicolás",
+            "San Fabián",
+            "Coihueco"
+          ]
+        },
+        {
+          "provincia": "Diguillín",
+          "comunas": [
+            "Chillán",
+            "Chillán Viejo",
+            "Pinto",
+            "Quillón",
+            "Bulnes",
+            "San Ignacio",
+            "El Carmen",
+            "Pemuco",
+            "Yungay"
+          ]
+        },
+        {
+          "provincia": "Itata",
+          "comunas": [
+            "Cobquecura",
+            "Quirihue",
+            "Ninhue",
+            "Treguaco",
+            "Coelemu",
+            "Portezuelo",
+            "Ránquil"
+          ]
+        }
+      ]
+    },
+    {
+      "region": "Del Biobío",
+      "provincias": [
+        {
+          "provincia": "Concepción",
+          "comunas": [
+            "Tomé",
+            "Talcahuano",
+            "Penco",
+            "Hualpén",
+            "Concepción",
+            "Florida",
+            "San Pedro de la Paz",
+            "Chiguayante",
+            "Hualqui",
+            "Coronel",
+            "Lota",
+            "Santa Juana"
+          ]
+        },
+        {
+          "provincia": "Biobío",
+          "comunas": [
+            "Cabrero",
+            "Yumbel",
+            "San Rosendo",
+            "Laja",
+            "Tucapel",
+            "Antuco",
+            "Quilleco",
+            "Los Ángeles",
+            "Nacimiento",
+            "Negrete",
+            "Santa Bárbara",
+            "Quilaco",
+            "Mulchén",
+            "Alto Biobío"
+          ]
+        },
+        {
+          "provincia": "Arauco",
+          "comunas": [
+            "Arauco",
+            "Curanilahue",
+            "Lebu",
+            "Los Álamos",
+            "Cañete",
+            "Contulmo",
+            "Tirúa"
+          ]
+        }
+      ]
+    },
+    {
+      "region": "De la Araucanía",
+      "provincias": [
+        {
+          "provincia": "Malleco",
+          "comunas": [
+            "Renaico",
+            "Angol",
+            "Collipulli",
+            "Los Sauces",
+            "Purén",
+            "Ercilla",
+            "Lumaco",
+            "Victoria",
+            "Traiguén",
+            "Curacautín",
+            "Lonquimay"
+          ]
+        },
+        {
+          "provincia": "Cautín",
+          "comunas": [
+            "Galvarino",
+            "Perquenco",
+            "Lautaro",
+            "Cholchol",
+            "Vilcún",
+            "Carahue",
+            "Temuco",
+            "Nueva Imperial",
+            "Padre las Casas",
+            "Saavedra",
+            "Melipeuco",
+            "Cunco",
+            "Freire",
+            "Pitrufquén",
+            "Teodoro Schmidt",
+            "Gorbea",
+            "Toltén",
+            "Villarrica",
+            "Pucón",
+            "Curarrehue",
+            "Loncoche"
+          ]
+        }
+      ]
+    },
+    {
+      "region": "De los Ríos",
+      "provincias": [
+        {
+          "provincia": "Valdivia",
+          "comunas": [
+            "Lanco",
+            "Mariquina",
+            "Panguipulli",
+            "Máfil",
+            "Valdivia",
+            "Los Lagos",
+            "Corral",
+            "Paillaco"
+          ]
+        },
+        {
+          "provincia": "Ranco",
+          "comunas": [
+            "Futrono",
+            "La Unión",
+            "Lago Ranco",
+            "Río Bueno"
+          ]
+        }
+      ]
+    },
+    {
+      "region": "De los Lagos",
+      "provincias": [
+        {
+          "provincia": "Osorno",
+          "comunas": [
+            "San Pablo",
+            "San Juan de la Costa",
+            "Osorno",
+            "Puyehue",
+            "Río Negro",
+            "Purranque",
+            "Puerto Octay"
+          ]
+        },
+        {
+          "provincia": "Llanquihue",
+          "comunas": [
+            "Frutillar",
+            "Fresia",
+            "Llanquihue",
+            "Puerto Varas",
+            "Los Muermos",
+            "Puerto Montt",
+            "Cochamó",
+            "Maullín",
+            "Calbuco"
+          ]
+        },
+        {
+          "provincia": "Chiloé",
+          "comunas": [
+            "Ancud",
+            "Quemchi",
+            "Dalcahue",
+            "Curaco de Vélez",
+            "Quinchao",
+            "Castro",
+            "Puqueldón",
+            "Chonchi",
+            "Queilén",
+            "Quellón"
+          ]
+        },
+        {
+          "provincia": "Palena",
+          "comunas": [
+            "Hualaihué",
+            "Chaitén",
+            "Futaleufú",
+            "Palena"
+          ]
+        }
+      ]
+    },
+    {
+      "region": "Aysén del Gral. Carlos Ibáñez del Campo",
+      "provincias": [
+        {
+          "provincia": "Coihaique",
+          "comunas": [
+            "Lago Verde",
+            "Coihaique"
+          ]
+        },
+        {
+          "provincia": "Aysén",
+          "comunas": [
+            "Guaitecas",
+            "Cisnes",
+            "Aysén"
+          ]
+        },
+        {
+          "provincia": "General Carrera",
+          "comunas": [
+            "Río Ibáñez",
+            "Chile Chico"
+          ]
+        },
+        {
+          "provincia": "Capitán Prat",
+          "comunas": [
+            "Cochrane",
+            "Tortel",
+            "O’Higgins"
+          ]
+        }
+      ]
+    },
+    {
+      "region": "Magallanes y de la Antártica Chilena",
+      "provincias": [
+        {
+          "provincia": "Última Esperanza",
+          "comunas": [
+            "Torres del Paine",
+            "Natales"
+          ]
+        },
+        {
+          "provincia": "Magallanes",
+          "comunas": [
+            "Laguna Blanca",
+            "San Gregorio",
+            "Río Verde",
+            "Punta Arenas"
+          ]
+        },
+        {
+          "provincia": "Tierra del Fuego",
+          "comunas": [
+            "Primavera",
+            "Porvenir",
+            "Timaukel"
+          ]
+        },
+        {
+          "provincia": "Antártica Chilena",
+          "comunas": [
+            "Cabo de Hornos",
+            "Antártica"
+          ]
+        }
+      ]
+    }
+  ]
+}
