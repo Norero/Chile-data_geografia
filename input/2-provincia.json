@@ -192,8 +192,8 @@
     "codigo": "161",
     "tipo": "provincia",
     "nombre": "Diguillín",
-    "lat": -366.197,
-    "lng": -721.014,
+    "lat": -36.6197,
+    "lng": -72.1014,
     "url": "",
     "codigo_padre": "16"
   },
@@ -255,8 +255,8 @@
     "codigo": "162",
     "tipo": "provincia",
     "nombre": "Itata",
-    "lat": -367.639,
-    "lng": -724.491,
+    "lat": -36.7639,
+    "lng": -72.4491,
     "url": "",
     "codigo_padre": "16"
   },
@@ -381,8 +381,8 @@
     "codigo": "163",
     "tipo": "provincia",
     "nombre": "Punilla",
-    "lat": -364.261,
-    "lng": -719.708,
+    "lat": -36.4261,
+    "lng": -71.9708,
     "url": "",
     "codigo_padre": "16"
   },
