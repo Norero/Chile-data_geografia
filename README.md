@@ -12,4 +12,4 @@ Obtenida a partir de la [API](https://apis.digital.gob.cl/dpa/) del gobierno. Di
 
 # Output
 
-Archivos JSON procesados. [output detalle](https://github.com/Norero/Chile-data_geografia/tree/main/output#output)
+Archivos JSON procesados. [output detalle](https://github.com/Norero/Chile-data_geografia/tree/main/cleanInput)

@@ -3,7 +3,7 @@
 Regiones, Provincias y Comunas. 
 [home](https://github.com/Norero/chile-data_geografia#chile-informaci%C3%B3n-geograf%C3%ADa)
 
-# Output
+# Clean Input
 
 Archivos JSON ordenados.
 
